@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[jp-RAD 超高速開発](https://jp-rad.github.io/jp-rad/)
+超高速開発とScratch開発を始めました。
+[→ jp-RAD](https://jp-rad.github.io/jp-rad/)
 
 
 <!--
