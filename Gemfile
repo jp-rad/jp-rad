@@ -7,4 +7,5 @@ gem "minimal-mistakes-jekyll"
 group :jekyll_plugins do
   gem "jekyll-archives"
   gem 'jekyll-plantuml', '~> 1.3', '>= 1.3.4'
+  gem 'jekyll-scratchblocks'
 end

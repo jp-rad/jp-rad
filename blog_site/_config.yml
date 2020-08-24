@@ -221,6 +221,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-archives
   - jekyll-plantuml
+  - jekyll-scratchblocks
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -231,6 +232,7 @@ whitelist:
   - jekyll-include-cache
   - jekyll-archives
   - jekyll-plantuml
+  - jekyll-scratchblocks
 
 
 # Archives
