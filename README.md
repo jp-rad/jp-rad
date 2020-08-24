@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+超高速開発とScratch開発を始めました。
+[→ jp-RAD](https://jp-rad.github.io/jp-rad/)
+
+
 <!--
 **jp-rad/jp-rad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
